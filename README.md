@@ -10,4 +10,4 @@ Have fun using the app!
 
 -8/15/25: Added the 1.0.0 Version (Identifier: 23.14.5-51423)
 -8/15/25: Added the english 1.0.0 Version (Identifier: 23.14.5-51423)
--8/15/25: Added the 1.0.1 Version German
+-8/15/25: Added the 1.0.1 Version German (identifier: 12.3.24-12f243)
